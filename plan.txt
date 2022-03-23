@@ -1,0 +1,23 @@
+Project Planning
+1) User Stories
+    A high level overview of the whole application which will allow developers to determine the exact features that they 
+    need to implement in order to make the user stories actually work as intended.
+2) Determine Features 
+3) Make Flowchart
+4) Project Architecture 
+    How will you organize your code and what javascript features you will use.
+    What holds all the code together.
+    It gives a structure in which we can then develop the application's functionality
+5) Development
+    Implement your plan using javascript code.
+
+Flowchart
+- A Flowchart tells us what a program should do but how it does.
+- Whenever you start to build a Flowchart, it's a good idea to start with events.
+- Page loading is always at the start.
+- To differentiate:
+    - Yellow: Actions/Events
+    - Green: Things you will render on the UI
+    - Red: Operations that happen asynchronously
+- It's perfectly ok to create a rough sketch in the beginning and then come up with the exact detail during the implementation
+- Don't get hang up on building the perfect flowchart.
